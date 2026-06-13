@@ -40,6 +40,7 @@ while True:
         print("Historial de préstamos activos:", historial)
     elif opcion == "5":
         print("Gracias por utilizar nuestro software, hasta la próxima.")
+        #comentario
         break
     else:
         print("Opción inválida. Intenta nuevamente.")
